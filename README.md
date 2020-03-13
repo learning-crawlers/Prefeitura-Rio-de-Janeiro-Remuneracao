@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/Prefeitura-Rio-de-Janeiro-Remuneracao.svg)](http://hits.dwyl.com/learning-crawlers/Prefeitura-Rio-de-Janeiro-Remuneracao)
+
 # Prefeitura do Rio de Janeiro Remuneração
 Extração de dados com Selenium + BeautifulSoup para listar pagamentos da Prefeitura do Rio de Janeiro
 
